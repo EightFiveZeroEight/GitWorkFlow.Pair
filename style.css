@@ -1,3 +1,7 @@
+* { 
+    border: 1px dotted white;
+}
+
 body {
     /* your styles here */
     font-family: 'Courier New', Courier, monospace;
