@@ -1,13 +1,14 @@
 body {
     /* your styles here */
     font-family: 'Courier New', Courier, monospace;
-
     color: orange;
     background-color: rgb(60, 32, 32);
   }
   
   h1, #designed-by {
     /* your styles here */
+    margin-top: -4rem;
+    margin-bottom: 4rem;
     text-align: center;
     color: orange;
   }
